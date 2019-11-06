@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IG-Clone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">Xg6gpx1JKQT7NlFkJ3W45oVp0N0KReI1gT7odYB0</string>
+    <string name="back4app_client_key">mQFaQydEIzMptChdw9NulET35WxTLlx6uyH9Pcj2</string>
+</resources>
