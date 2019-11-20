@@ -1,7 +1,6 @@
 package com.example.ig_clone;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,7 +13,6 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import com.parse.GetCallback;
 import com.parse.ParseException;
 import com.parse.ParseInstallation;
